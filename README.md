@@ -4,7 +4,7 @@
   <img src="screenshots/screenshot.png" title="wezterm">
 </p>
 
-Textual TUI for visualizing VIX and it's implications for short-premium portfolio sizing.
+[Textual](https://textual.textualize.io) TUI for visualizing VIX and it's implications for short-premium portfolio sizing.
 
 ## Motivation
 
@@ -12,15 +12,15 @@ Textual TUI for visualizing VIX and it's implications for short-premium portfoli
   - **month** (24d) to show the change from 45-DTE to 21-DTE (optimal open and close)
   - **week** for short-term trades
   - **day** for 0-DTE trades
-- The current VIX price is used to determine optimal allocations. The math isn't particularly challenging, but it's still unnecessary mental overhead.
+- The current VIX price is used to determine optimal allocations. The math isn't particularly challenging, but it is still unnecessary mental overhead.
 - For educational purposes, libraries were avoided for API access.
 
 ## Features
 
 - fetch historical/current VIX data
 - stats/graphs for changes over past month/week/day
-- fetch accounts and balances from Tastytrade's API
-- calculate optimal allocations based on Tastytrade research
+- fetch accounts and balances from [Tastytrade](https://www.tastytrade.com)'s API
+- calculate optimal allocations based on current research
 
 ## Todo
 
