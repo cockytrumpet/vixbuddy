@@ -1,0 +1,9 @@
+.env
+.pytest_cache
+__py*
+**.pickle
+**.log
+json/**
+pickles/**
+logs/**
+output/**
