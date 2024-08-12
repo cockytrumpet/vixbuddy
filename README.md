@@ -28,3 +28,4 @@
 - use market streamer for live updates (VIX)
 - calculate and show portfolio delta/theta ratio
 - show difference between current and optimal allocations
+- add login screen
