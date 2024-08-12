@@ -27,4 +27,4 @@
 - use account streamer for live updates (accounts/balances)
 - use market streamer for live updates (VIX)
 - calculate and show portfolio delta/theta ratio
-- show relationships between current and optimal allocations
+- show difference between current and optimal allocations
